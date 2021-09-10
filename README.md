@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shasna K A 
 - 👀 I’m interested in Coding and Development
-- My Skills- Java, Python-Django, Linux, Php, MySql, Sqlite, C, C++
+- My Skills- Java, Python-Django, Linux, Php, MySql, C, C++
 - 🌱 Currently learning Javascript and related frameworks
 - 💞️ I’m looking to collaborate for creating Python Web Applications
 - 📫 Reach me at shasnaashraf@gmail.com OR https://www.linkedin.com/in/shasna-k-a-
